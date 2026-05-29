@@ -11,11 +11,11 @@ class car{
         cout<<"year of car is "<<year;
     }
 };
-// int main(){
-//     car c;
-//     c.brand="ford";
-//     c.model="mustang";  
-//     c.year=2020;
-//     c.show();
-//     return 0;
-// }
+int main(){
+    car c;
+    c.brand="ford";
+    c.model="mustang";  
+    c.year=2020;
+    c.show();
+    return 0;
+}
